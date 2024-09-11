@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sivatsen.github.io/sitemap.html.gz
+Sitemap: https://sivatsen.github.io/app/sitemap.html.gz
+Sitemap: https://sivatsen.github.io/assets/sitemap.html.gz
+Sitemap: https://sivatsen.github.io/css/sitemap.html.gz
+Sitemap: https://sivatsen.github.io/includes/sitemap.html.gz
+Sitemap: https://sivatsen.github.io/item/sitemap.html.gz
+Sitemap: https://sivatsen.github.io/src/sitemap.html.gz
